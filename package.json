@@ -5,7 +5,7 @@
   "dependencies": {
     "@babel/runtime": "^7.4.5",
     "@storybook/addon-knobs": "^5.1.8",
-    "eslint": "^5.16.0",
+    "eslint": "^9.26.0",
     "prettier": "^1.18.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
